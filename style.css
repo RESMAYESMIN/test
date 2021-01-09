@@ -1,0 +1,13 @@
+table{
+    width:650px;
+   height:150px;
+    margin: auto;
+    background-color:;
+    border-collapse: collapse;
+}
+.table_left{
+    text-align: left;
+}
+.coto{
+	text-align:center;
+}
